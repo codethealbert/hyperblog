@@ -5,3 +5,5 @@ Alberto Lopez tiene 33 años y nacio en Mexico
 cambios para una nueva version.
 
 Agregando nuevos cambios despues de usar git rm --cached
+
+cambios para ver git reset HEAD. suerte

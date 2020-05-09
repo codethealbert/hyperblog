@@ -8,7 +8,7 @@ body{
     display: flexbox;
 }
 #cabecera {
-    background-color: black;
+    background-color: red;
     color: burlywood;
     margin: 0;
     text-align: left;

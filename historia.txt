@@ -11,3 +11,4 @@ cambios para ver git reset HEAD. suerte
 suerte 2
 
 Agregando un colaborador nuevo.
+Anexando mi nombre

@@ -1,4 +1,4 @@
-Esta es la historia de alberto Lopez
+﻿Esta es la historia de alberto Lopez
 
 Alberto Lopez tiene 33 años y nacio en Mexico
 
@@ -9,3 +9,5 @@ Agregando nuevos cambios despues de usar git rm --cached
 cambios para ver git reset HEAD. suerte
 
 suerte 2
+
+Agregando un colaborador nuevo.
